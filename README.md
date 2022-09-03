@@ -6,8 +6,8 @@
 <p align="left">
     <ul>
         <li> 🎓 A 3rd Year Computer Science Undergraduate at University of Colombo School of Computing</li>
-        <li> 💻 Always eager to learning new technologies</li>
-        <li> 👥 Enjoy teamwork</li>
+        <li> 💻 Always eager to learning new things</li>
+        <li> 👥 Team player</li>
     </ul> 
 </p>
 
