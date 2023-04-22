@@ -65,7 +65,7 @@
 
 <h2 align="left" id="macropower-tech">:books: Read My Articles</h2>
 <p align="left">
-<a href="https://medium.com/https://medium.com/@isurunishadha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@isurunishadha99" height="30" width="40" /></a>
+<a href="https://medium.com/@isurunishadha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@isurunishadha99" height="30" width="40" /></a>
 </p>
 
 
