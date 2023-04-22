@@ -64,6 +64,8 @@
 </p>
 
 <h2 align="left" id="macropower-tech">Read My Articles</h2>
+<a href = "https://medium.com/@isurunishadha99"><img src="[https://drive.google.com/uc?export=view&id=1Be_hiHGXT3N7DrUV3UgolDAYc0TLlFrJ](https://drive.google.com/file/d/1Jtstq5xQ4_y8tmCkwwd97szraO17Y9ak/view?usp=sharing)" height="50px"/></a>
+
 <a href="https://medium.com/https://medium.com/@isurunishadha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@isurunishadha99" height="30" width="40" /></a>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurunish&show_icons=true&locale=en&layout=compact" alt="isurunish" /></p> -->
