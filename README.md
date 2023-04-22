@@ -63,8 +63,11 @@
   <a href="https://www.instagram.com/_cheexe_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cheexe_" height="30" width="40" /></a>
 </p>
 
-    
+<h2 align="left" id="macropower-tech">Read My Articles</h2>
+<a href="https://medium.com/https://medium.com/@isurunishadha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@isurunishadha99" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurunish&show_icons=true&locale=en&layout=compact" alt="isurunish" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurunish&show_icons=true&locale=en&layout=compact" alt="isurunish" /></p> -->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=isurunish&hide=php&theme=tokyonight">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurunish&hide=php&theme=tokyonight" />
+</a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isurunish&show_icons=true&locale=en" alt="isurunish" /></p>
