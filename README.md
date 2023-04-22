@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
-<h3 align="left">About me 🙋🏻‍♂️</h3>
+<h2 align="left" id="macropower-tech">🙋‍♂️ About Me</h2>
 <p align="left">
     <ul>
         <li> 🎓 A 3rd Year Computer Science Undergraduate at University of Colombo School of Computing</li>
@@ -11,8 +11,7 @@
     </ul> 
 </p>
 
-
-<h3 align="left">Familiar Technologies 📱</h3>
+<h2 align="left" id="macropower-tech">:rocket: Familiar Technologies</h2>
 <p align="left">
     <h4 align="left" >Programming Languages</h4>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
