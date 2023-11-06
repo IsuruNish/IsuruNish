@@ -5,7 +5,7 @@
 <h2 align="left" id="macropower-tech">🙋‍♂️ About Me</h2>
 <p align="left">
     <ul>
-        <li> 🎓 A 3rd Year Computer Science Undergraduate at University of Colombo School of Computing</li>
+        <li> 🎓 A final Year Computer Science Undergraduate at University of Colombo School of Computing</li>
         <li> 💻 Always eager to learning new things</li>
         <li> 👥 Team player</li>
     </ul> 
